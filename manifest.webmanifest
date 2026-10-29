@@ -1,0 +1,18 @@
+{
+  "name": "Unser Zuhause",
+  "short_name": "Zuhause",
+  "description": "Euer privater Alltagsplaner für Rezepte, Einkauf und Vorräte.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ef",
+  "theme_color": "#55745b",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
